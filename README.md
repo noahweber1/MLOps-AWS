@@ -47,9 +47,6 @@ Here is the response:
 ```
 {"prediction":[3284.857731772743]}
 ```
-# Architecture
-![Architecture](https://raw.githubusercontent.com/joekrinke15/MLModelDeployment/master/MLFinalProject.png)
-
 
 This was inspired by Noah Gift.
 
