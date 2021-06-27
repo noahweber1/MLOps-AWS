@@ -2,7 +2,7 @@
 
 This projects serves as an example of deploying MLOPs on AWS.
 
-[Walkthrough of the project can be found on Youtube](https://www.youtube.com/watch?v=QImMWBdnEJY)
+[Walkthrough of the project can be found on Youtube](https://www.youtube.com/watch?v=CpiyhT8xipE)
 
 This project is a containerized auto-scaling ML application to predict medical expenditures hosted on AWS. 
 
